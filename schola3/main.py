@@ -65,18 +65,6 @@ while True:
             print('-'*80 )
             print('-'*80 )
             print('-'*80 )
-            # print(dictInt , type(dictInt))
-            # dictInt(gen1)+= 1
-            # dictInt.gen1 += 1
-
-
-
-            # print(countChisel, type(countChisel))
-
-            # print(masivChisel, )
-
-
-
 
             print ('|%3s| |%3s| |%3s| |%3s| |%3s| |%3s| |%3s| |%3s| |%3s| |%3s| |%3s|   |||%4s|||' % (0, 1, 2, 3, 4,5,6,7,8,9,10,'avr'))
             print ('|%3s| |%3s| |%3s| |%3s| |%3s| |%3s| |%3s| |%3s| |%3s| |%3s| |%3s|   |||%4s|||' % (masivChisel.get(0 ,0),
@@ -100,7 +88,6 @@ while True:
             print('-' * 80)
             print('-' * 80)
             print('-' * 80)
-
 
             time.sleep(1)
         count = 0
